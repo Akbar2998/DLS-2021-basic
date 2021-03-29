@@ -1,2 +1,2 @@
-# Deep-Learning-1-2021-
+# DLS spring 2021 basic
 Прохождение курса
